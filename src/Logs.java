@@ -1,5 +1,3 @@
-
-
 public class Logs {
 
     public static String message(String logLine) {
